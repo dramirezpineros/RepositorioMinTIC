@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RetotresApplication<retotres>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.usa.mintic.retotres.RetotresApplication",
+            "projectName": "retotres",
+            "args": ""
+        }
+    ]
+}
